@@ -8,3 +8,6 @@
 Nokenter/Nokenter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://github-readme-stats.vercel.app/api?username=nokenter&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nokenter&theme=dark&langs_count=10&layout=compact&hide_border=true)
