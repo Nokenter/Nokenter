@@ -6,3 +6,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://github-readme-stats.vercel.app/api?username=nokenter&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nokenter&theme=dark&langs_count=10&layout=compact&hide_border=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/184316313458442241)](https://discord.com/users/184316313458442241)
